@@ -7,10 +7,10 @@
   "type": "commonjs",
   "main": "1-intro.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "dependencies": {
-    "bootstrap": "^5.3.8",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
