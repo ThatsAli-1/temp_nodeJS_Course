@@ -1,7 +1,7 @@
 {
   "name": "2-express-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express REST API learning project (course-based): people CRUD, routers, controllers, static demos.",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
